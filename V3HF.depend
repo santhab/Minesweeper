@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1543490475 source:c:\users\brucewayne\documents\codeblocksprojects\v3hf\jatekos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	"jatekos.h"
+
+1543259840 c:\users\brucewayne\documents\codeblocksprojects\v3hf\jatekos.h
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<string.h>
+	"palya.h"
+
+1543259840 c:\users\brucewayne\documents\codeblocksprojects\v3hf\palya.h
+	<stdbool.h>
+
+1543497320 source:c:\users\brucewayne\documents\codeblocksprojects\v3hf\megjelenites.c
+	<math.h>
+	<time.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"megjelenites.h"
+	"palya.h"
+	"jatekos.h"
+
+1543496324 c:\users\brucewayne\documents\codeblocksprojects\v3hf\megjelenites.h
+	<stdbool.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<SDL2/SDL_image.h>
+	"palya.h"
+	"jatekos.h"
+
+1543490458 source:c:\users\brucewayne\documents\codeblocksprojects\v3hf\mukodes.c
+	<time.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	"palya.h"
+	"megjelenites.h"
+
+1543490461 source:c:\users\brucewayne\documents\codeblocksprojects\v3hf\palya.c
+	<stdlib.h>
+	<stdio.h>
+	"palya.h"
+
+1543495997 source:c:\users\brucewayne\documents\codeblocksprojects\v3hf\main.c
+	<math.h>
+	<time.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<stdio.h>
+	<stdlib.h>
+	"palya.h"
+	"megjelenites.h"
+	"jatekos.h"
+	"mukodes.h"
+
+1543259840 c:\users\brucewayne\documents\codeblocksprojects\v3hf\mukodes.h
+
